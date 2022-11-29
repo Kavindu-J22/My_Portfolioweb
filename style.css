@@ -159,6 +159,10 @@ nav ul li a:hover::after{
     display: block ;
 }
 
+#gitlink{
+    color: rgb(159, 169, 177);
+}
+
 
 /* -------------------services-------------- */
 #services{
